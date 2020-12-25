@@ -6,7 +6,6 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
-dates: 2020-01-21
 excerpts: Under what circumstances should we step off a path?
 ---
 
