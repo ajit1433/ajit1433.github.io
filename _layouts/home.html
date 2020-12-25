@@ -75,9 +75,10 @@ layout: page
       {% endif %}
     </div>
     <div class="video-link">
-      {% if post.post-video %}
+        {{ post.layout}}
+        <br/>
         {{ post.post-video}} 
-      {% endif %}
+      
     </div>
     {% endunless %}
 
